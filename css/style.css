@@ -35,7 +35,7 @@ p {
   margin-bottom: 1.5em; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000;
+  color:#000;
   font-family: "Playfair Display", Georgia, serif;
   font-weight: 400;
   margin: 0 0 30px 0; }
@@ -293,7 +293,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: black;
+          color: white;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
@@ -876,7 +876,8 @@ body.offcanvas {
     margin-bottom: 25px; }
     .blog-entry .blog-img img {
       position: relative;
-      max-width: 100%;
+      min-width: 340px;
+      height: 203px;
       -webkit-transform: scale(1);
       -moz-transform: scale(1);
       -ms-transform: scale(1);
