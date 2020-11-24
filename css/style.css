@@ -399,7 +399,7 @@ body.offcanvas {
 
 .author-img {
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   background-repeat: no-repeat;
   position: relative; }
 
@@ -658,7 +658,7 @@ body.offcanvas {
     .services {
       margin-bottom: 4em; } }
   .services .icon {
-    position: absolute;
+    position: relative;
     top: -20px;
     left: 0;
     right: 0;
