@@ -123,7 +123,7 @@ figure {
     display: block;
     width: 100%; }
     #colorlib-aside #colorlib-main-menu .collapse {
-      display: block !important; }
+      display: initial !important; }
     #colorlib-aside #colorlib-main-menu ul {
       text-align: center;
       margin: 0;
@@ -877,7 +877,7 @@ body.offcanvas {
     .blog-entry .blog-img img {
       position: relative;
       min-width: 340px;
-      height: 203px;
+      height: 222px;
       -webkit-transform: scale(1);
       -moz-transform: scale(1);
       -ms-transform: scale(1);

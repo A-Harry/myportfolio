@@ -1161,6 +1161,7 @@ pre code {
 
   .col-sm-6 {
     width: 50%;
+    max-height: 318px;
   }
 
   .col-sm-7 {
