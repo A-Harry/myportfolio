@@ -859,6 +859,10 @@ body.offcanvas {
       .colorlib-feature.colorlib-feature-sm .colorlib-icon i {
         font-size: 28px; } }
 
+.custom-social{
+  font-size: 30px
+}
+
 .blog-entry {
   width: 100%;
   float: left;
