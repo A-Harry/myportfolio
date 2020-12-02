@@ -865,6 +865,12 @@ body.offcanvas {
   font-size: 30px;
   margin-top: 7px;
 }
+  .custom-social a{
+    color: #333333;
+  }
+  .custom-social a:hover{
+    color:#2c98f0;
+  }
   .custom-social i{
     padding: 0px 10px;
   }
