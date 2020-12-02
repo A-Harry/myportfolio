@@ -862,8 +862,12 @@ body.offcanvas {
         font-size: 28px; } }
 
 .custom-social{
-  font-size: 30px
+  font-size: 30px;
+  margin-top: 7px;
 }
+  .custom-social i{
+    padding: 0px 10px;
+  }
 
 .blog-entry {
   width: 100%;
