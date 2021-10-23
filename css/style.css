@@ -1449,3 +1449,12 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+/* NEW RULE FOR CAPSTONE LINK */
+a.capstone__video{
+  color: #000;
+  text-decoration: underline;
+}
+a.capstone__video:hover{
+  text-decoration: none;
+}
